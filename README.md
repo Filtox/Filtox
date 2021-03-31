@@ -1,6 +1,6 @@
 ### Hi there, my name is Pierre. 👋
 
-## I'm a computer science student. I am particularly interested in the fields of infrastructures, systems and networks.
+I'm a computer science student. I am particularly interested in the fields of infrastructures, systems and networks.
 
 - 🔭 I am currently looking for a work-study
 
