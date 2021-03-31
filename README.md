@@ -6,6 +6,8 @@ I'm a computer science student. I am particularly interested in the fields of in
 
 ![Filtox's statistics](https://github-readme-stats.vercel.app/api?username=Filtox&show_icons=true&theme=dark)
 
+![Metrics](https://metrics.lecoq.io/Filtox?template=classic&base.repositories=0&config.timezone=Europe%2FParis)
+
 <!--
 **Filtox/Filtox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
