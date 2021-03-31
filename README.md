@@ -4,6 +4,8 @@ I'm a computer science student. I am particularly interested in the fields of in
 
 - 🔭 I am currently looking for a work-study
 
+<br>
+
 ![Filtox's statistics](https://github-readme-stats.vercel.app/api?username=Filtox&show_icons=true&theme=dark)
 
 ![Metrics](https://metrics.lecoq.io/Filtox?template=classic&base.repositories=0&config.timezone=Europe%2FParis)
